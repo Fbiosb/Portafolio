@@ -1,6 +1,6 @@
 # ¡Hola, bienvenido a mi proyecto de portafolio!
 
-<table style="border: none;">
+<table border-collapse: collapse;>
   <tr>
     <td width="50%" valign="top" style="border: none;">
         <p>Este proyecto es parte de un programa de Alura Latam que estoy adaptando para mi uso personal. 
