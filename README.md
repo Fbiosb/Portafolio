@@ -4,13 +4,10 @@
 ## Herramientas utilizadas:
 
 * HTML
-
 * CSS
-
 * Flex-box
 
 ## Hecho por:
 
 ### Fabio Bravo
 
-### Linkedin: https://www.linkedin.com/in/fabio-bravo-garcia/
